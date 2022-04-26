@@ -99,4 +99,4 @@ gems:
   - jekyll_pages_api
   - jekyll-react
 
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
